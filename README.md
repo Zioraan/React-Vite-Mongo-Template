@@ -59,11 +59,6 @@ npm install
 npm run dev
 ```
 
-### 7. Access the app
-
-- Frontend: [http://localhost:5173](http://localhost:5173)
-- Backend API: [http://localhost:5000/api/test](http://localhost:5000/api/test)
-
 ## License
 
 MIT
